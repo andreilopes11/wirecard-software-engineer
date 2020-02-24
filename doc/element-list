@@ -1,0 +1,8 @@
+br.com.wirecard.payments
+br.com.wirecard.payments.controller
+br.com.wirecard.payments.dto
+br.com.wirecard.payments.dto.errors
+br.com.wirecard.payments.enumeration
+br.com.wirecard.payments.exception
+br.com.wirecard.payments.model
+br.com.wirecard.payments.repository
